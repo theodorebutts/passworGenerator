@@ -1,4 +1,5 @@
 # Password Generator
+A secure password generator that allows you to choose the  length of the password, use of special characters, numbers, and uppercase letters.
 
 ### User Story
 AS AN employee with access to sensitive data
@@ -22,4 +23,5 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-
+### Used
+HTML, CSS, JavaScript
